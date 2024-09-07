@@ -1,4 +1,4 @@
-## **## Readme.md: Busca Rápida por Atletas Olímpicos**
+## **## Readme.md: Busca Rápida por Atletas Olímpicos** - Imersão DEV com Google Gemini - Alura
 
 ### **O que faz essa aplicação?**
 
